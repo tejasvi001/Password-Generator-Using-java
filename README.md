@@ -17,7 +17,7 @@ This is a Java-based Password Generator that creates strong and random passwords
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/PasswordGenerator.git
+   git clone https://github.com/tejasvi001/Password-Generator-Using-java.git
    ```
 2. Navigate to the project directory:
    ```sh
